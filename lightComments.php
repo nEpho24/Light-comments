@@ -1,6 +1,6 @@
 <?php 
 
-/**
+/** 
  * @author nEpho24 (iiigameriii24@gmail.com)
  * It's a file (lightComments.php) that you have to add , then you 
  * put one command and you have a comment section
