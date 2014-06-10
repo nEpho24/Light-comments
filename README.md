@@ -1,9 +1,6 @@
 Light-comments
 ==============
 
-A commentary plugin (light version)
-===================================
-
 HOW IT WORKS :
 ================
  		step 1 - change $config value (put your own informations)
